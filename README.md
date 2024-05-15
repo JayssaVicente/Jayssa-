@@ -1,8 +1,9 @@
-# Jayssa-
+# JayssaVicente-
 Boas vindas ao meu perfil 💙💙
-Meu nome é nome sobrenome
+Meu nome é nome é Jayssa Vicente
 
 Estou estudando na Alura
+Sou Professora da Rede Estadual de São Paulo 
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 
