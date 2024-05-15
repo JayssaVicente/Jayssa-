@@ -1,6 +1,6 @@
 # JayssaVicente-
 Boas vindas ao meu perfil 💙💙
-Meu nome é nome é Jayssa Vicente
+Meu nome é Jayssa Vicente
 
 Estou estudando na Alura
 Sou Professora da Rede Estadual de São Paulo 
